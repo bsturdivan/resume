@@ -25,7 +25,7 @@ Javascript • HTML • CSS • React • Node • NPM • Yarn • Ruby • Rub
 - Built an e-commerce platform with a group of four rag-tag engineers and one designer, all learning on the job, from a brand vision to the successful business Everlane has become.
 - Grew, maintained, and matured an engineering, product, and design team based on low ego, curiosity, and compassion. Starting with four people sharing a desk and growing to the incredible group of 18 engineers, 4 designers, and 4 Product managers we have today.
 - **Increased customer trust and conversion**
-  - Integrated with a customer reviews protform and tested the effect product reviews to conversion and repeat purchases
+  - Integrated with a customer reviews platform and tested the effect product reviews to conversion and repeat purchases
   - Integrated with payment options in checkout such as Braintree, ApplePay, Stripe, Afterpay, and ShopPay; leading to increases in conversion by as much as 8%.
 - **Empowered brand and marketing teams to self-serve**
   - Discovered, advocated for, and integrated the prototype for Everlane’s headless CMS provider, Builder.io. After spending over a year building our own custom CMS and site merchandising tool and a product asset management system; I made the decision to buy over continuing to build when the custom tools became too ineffective and engineering intensive.
