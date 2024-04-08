@@ -17,16 +17,16 @@ Overview
 With over 13 years of professional experience and 11 years of dedicated experience in the e-commerce realm, I played a pivotal role in shaping the Everlane tech stack and assembling the Engineering, Product, and Design team from the ground up. 
 
 **Significant milestones:**
-Grew an Engineering, product and Design team by 10x
-Created Everlane's POS from scratch
-Moved the Everlane front end stack from Backbone/JQuery to React and NextJS
-Created Everlane's Ruby on Rails API layer. 
+- Grew an Engineering, product and Design team by 10x
+- Created Everlane's POS from scratch
+- Moved the Everlane front end stack from Backbone/JQuery to React and NextJS
+- Created Everlane's Ruby on Rails API layer. 
 
 **My values:**
-Fostering an environment of trust and humility
-Advocate for and prioritize progress for the betterment of the product
-Expect and learn from successes and failures
-The collective journey is more powerful than individual accolades
+- Fostering an environment of trust and humility
+- Advocate for and prioritize progress for the betterment of the product
+- Expect and learn from successes and failures
+- The collective journey is more powerful than individual accolades
 
 I can't begin to put my experiences and contributions into just a few words but I can say that I love what I do and what we've done together.
 
