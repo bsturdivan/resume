@@ -1,3 +1,12 @@
+This is a resume/cover letter generator based on the Github markdown format. When provided a markdown file, the script will auto-generate a PDF styled using Github's markdow-to-html stylesheet, the same thing that is used to render this README. The output file will be catered toward ATS resume readers.
+
+# Usage
+1. run `npm install`
+2. run `npm run g [resume/cover] [input file name]`
+3. Your PDF will be written to `./bin/[resume/cover-letters]/` with the same file name at the input file
+
+# *Resume below*
+
 # Brian Sturdivan—Senior Product Engineer
 
 ## Location
