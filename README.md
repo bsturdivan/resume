@@ -3,7 +3,7 @@ This is a resume/cover letter generator based on the Github markdown format. Whe
 # Usage
 1. run `npm install`
 2. run `npm run g [resume/cover] -file=[input file name]`.
-  - If a generator [resume/cover] is not provided, it will default to `resume`
+    If a generator [resume/cover] is not provided, it will default to `resume`
 3. Your PDF will be written to `./bin/[resume/cover-letters]/` with the same file name at the input file
 
 # *Resume below*
