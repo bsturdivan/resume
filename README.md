@@ -11,11 +11,11 @@ This is a resume/cover letter generator based on the Github markdown format. Whe
 # Brian Sturdivan—Senior Product Engineer
 
 ## Location
-San Francisco, CA
+A Place
 
 ## Contact
-**email:** [bsturdivan@gmail.com](mailto:bsturdivan@gmail.com) \
-**phone:** [619-592-6788](tel:619-592-6788)
+**email:** [someone@gmail.com](mailto:someone@gmail.com) \
+**phone:** [123-123-1234](tel:123-123-1234)
 
 ## Profiles
 **LinkedIn:** [https://linkedin.com/in/bsturd](https://linkedin.com/in/bsturd) \
