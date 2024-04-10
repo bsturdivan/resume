@@ -1,0 +1,31 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "A resume generator from markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "g": "node ./scripts/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsturdivan/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "markdown",
+    "pdf",
+    "CV",
+    "Cover Letter"
+  ],
+  "author": "Brian Sturdivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsturdivan/resume/issues"
+  },
+  "homepage": "https://github.com/bsturdivan/resume#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "md-to-pdf": "^5.2.4"
+  }
+}
